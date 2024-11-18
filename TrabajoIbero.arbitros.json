@@ -1,3 +1,4 @@
+#Arbitro 1#
 [{
   "_id": {
     "$oid": "61d71e0d33c9f0547630c55a"
@@ -11,6 +12,7 @@
   },
   "Nacionalidad": "Argentino"
 },
+  #Arbitro 2#
 {
   "_id": {
     "$oid": "61d71ed833c9f0547630c55b"
@@ -24,6 +26,7 @@
   },
   "Nacionalidad": "Colombiano"
 },
+  #Arbitro 3#
 {
   "_id": {
     "$oid": "61d783c2f5563ceee5822cf9"
@@ -37,6 +40,7 @@
   },
   "Nacionalidad": "Chileno"
 },
+  #arbitro 4#
 {
   "_id": {
     "$oid": "61d783e7f5563ceee5822cfa"
