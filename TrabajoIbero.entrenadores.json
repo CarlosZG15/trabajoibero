@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "61d71e0d33c9f0547630c55a"
+  },
+  "Nombres": "Javier alberto",
+  "Apellidos": "Leon rojas",
+  "Edad": 36,
+  "Cedula": 1202325678,
+  "Celular": {
+    "$numberLong": "322732457922"
+  },
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d71ed833c9f0547630c55b"
+  },
+  "Nombres": "Carlos Eduardo",
+  "Apellidos": "zamora Guzman",
+  "Edad": 33,
+  "Cedula": 1503400905,
+  "Celular": {
+    "$numberLong": "3010123412"
+  },
+  "Nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "61d783c2f5563ceee5822cf9"
+  },
+  "Nombres": "Manuel Alberto",
+  "Apellidos": "leon valbuena",
+  "Edad": 30,
+  "Cedula": 1041044567,
+  "Celular": {
+    "$numberLong": "3217300522"
+  },
+  "Nacionalidad": "americano"
+},
+{
+  "_id": {
+    "$oid": "61d783e7f5563ceee5822cfa"
+  },
+  "Nombres": "pedro andres",
+  "Apellidos": "jimenez lopez",
+  "Edad": 31,
+  "Cedula": 1030524030,
+  "Celular": {
+    "$numberLong": "3221212230"
+  },
+  "Nacionalidad": "Colombiano"
+}]

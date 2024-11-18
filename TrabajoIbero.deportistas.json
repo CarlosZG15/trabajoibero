@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "673a8c81d8e9de7f618ecb97"
+  },
+  "nombre": "Lionel Messi",
+  "equipo": "Inter Miami",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles": 20,
+    "asistencias": 25
+  }
+},
+{
+  "_id": {
+    "$oid": "673a8c82d8e9de7f618ecb98"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "equipo": "Al-Nassr",
+  "posicion": "Delantero",
+  "estadisticas": {
+    "goles": 1,
+    "asistencias": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "61d7214433c9f0547630c55c"
+  },
+  "Nombres": "Kylian Mbappé",
+  "Equipo": "Paris",
+  "Nacionalidad": "frances",
+  "estadisticas": {
+    "goles": "12",
+    "asistencias": "2"
+  },
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "61d721be33c9f0547630c55d"
+  },
+  "Nombres": "Erling Haaland",
+  "Equipo": "Manchester City",
+  "Nacionalidad": "ingles",
+  "estadisticas": {
+    "goles": "4",
+    "asistencias": "8"
+  },
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "61d7846df5563ceee5822cfb"
+  },
+  "Nombres": "Neymar Jr",
+  "Equipo": "Al Hilal",
+  "Nacionalidad": "Brasileiro",
+  "estadisticas": {
+    "goles": "12",
+    "asistencias": "9"
+  },
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "61d7847df5563ceee5822cfc"
+  },
+  "Nombres": "Kevin De Bruyne",
+  "Equipo": "Manchester City",
+  "Nacionalidad": "Belga",
+  "estadisticas": {
+    "goles": "12",
+    "asistencias": "12"
+  },
+  "posicion": "Volante"
+},
+{
+  "_id": {
+    "$oid": "61d7859ff5563ceee5822cfe"
+  },
+  "Nombres": "Robert Lewandowski",
+  "Equipo": "FC Barcelona",
+  "Nacionalidad": "Polaco",
+  "estadisticas": {
+    "goles": "12",
+    "asistencias": "11"
+  },
+  "posicion": "Delantero"
+}]

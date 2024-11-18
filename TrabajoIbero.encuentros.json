@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "61d725fb33c9f0547630c55f"
+  },
+  "Fecha": "23/11/2024",
+  "Hora": "8:00 am",
+  "Lugar": "Camp Nou",
+  "Equipo Local": "FC Barcelona",
+  "Equipo Visitante": "Paris Saint",
+  "Estado": "pendiente",
+  "Resultado Final": "pendiente",
+  "Arbitros": [
+    "Andres Torres Paz",
+    "Jorge Andres Parra Perez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "61d729a133c9f0547630c560"
+  },
+  "Fecha": "30/11/2024",
+  "Hora": "6:00 pm",
+  "Lugar": "Parque de los principes",
+  "Equipo Local": "Paris",
+  "Equipo Visitante": "AL hilal",
+  "Estado": "Jugado",
+  "Resultado Final": "Empate",
+  "Arbitros": [
+    "Andres Torres Paz",
+    "Jorge Andres Parra Perez"
+  ]
+}]
